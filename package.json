@@ -1,0 +1,21 @@
+{
+  "name": "node-koa2-app",
+  "version": "1.0.0",
+  "description": "A simple Node.JS service with Koa 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "koa",
+    "twitter"
+  ],
+  "author": "Dehax",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "twitter": "^1.7.1"
+  }
+}
